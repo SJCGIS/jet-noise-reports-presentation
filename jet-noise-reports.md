@@ -54,6 +54,45 @@ Use your mouse wheel to zoom in or out. Click on a dot to see details.
 
 ---
 
+#### Complaint Fatigue, Lost Sleep, Disrupted Events and now flights are affecting our Economy and Property Values
+
+   *"We live in Portland, Oregon so are not directly affected. However, we vacation in the San Juans every year precisely because of the calm, quiet and pristine environment. Any future plans to purchase real estate there would depend on the future outcome of this issue. Thank you."* - Tom Kubisiak
+
+---
+
+## What can be done?
+
+(down)
+
+--
+
+### Conduct actual noise testing in islands during operations
+
+--
+
+### Navy communicate planned operations at Ault field
+
+--
+
+### Require all flight ops to fly Instrument Flight Regulation (IFR) and patterns both coming and going
+
+--
+
+### Restrict flights over Islands
+
+--
+
+### Use our data to improve operations and relations with Islands
+
+--
+
+### Congress require quieter engines. 
+
+  A 747 jetliner is more powerful and quieter than a Growler. GE makes engines for both.
+
+---
+
+
 ## Thanks
    Nick Peihl, San Juan County GIS Coordinator
 
