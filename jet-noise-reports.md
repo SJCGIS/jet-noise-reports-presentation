@@ -1,10 +1,60 @@
-## San Juan County Jet Noise Reports
+## San Juan County Jet Noise
    May 8, 2014 - September 30, 2014
-
-   Nick Peihl, San Juan County GIS
 
    October 7, 2014
 
+---
+
+## A Little Background
+
+* Ault Field = NAS Whidbey Main Base
+
+* OLF = Coupeville practice runway
+
+  
+  *(down)*
+
+--
+
+## May 2013
+
+   Council members Jarman and Stephens visit base to reopen communications
+
+   Result - Better communications concerning operations at OLF
+
+--
+
+## December 2013
+
+   Council members attend Environmental Impact Statement Open Houses concerning the "Growlers" in Oak Harbor and Anacortes
+
+--
+
+## April 2014
+
+   Delegation of Council, County staff, Town of Friday Harbor staff, former commissioner, and citizens meet with the base commander
+
+   Result - They would accept and analyze data collected by the county
+
+--
+
+## May 2014
+
+   San Juan County Jet Noise complaint web site launched
+
+--
+
+## July 2014
+
+  Sent small sample of data to the Navy and Congressional delegation
+
+--
+
+## September 2014
+
+   Received letter of acknowledgement
+
+   Received second letter analyzing our data 
 
 ---
 
@@ -44,7 +94,7 @@ Use your mouse wheel to zoom in or out. Click on a dot to see details.
 ## 33 Reports Of Seeing Jets
    Many comments suggested clouds or night sky limited visibility
 
-   (map below)
+   *(map below)*
    
 
 --
@@ -62,7 +112,7 @@ Use your mouse wheel to zoom in or out. Click on a dot to see details.
 
 ## What can be done?
 
-(down)
+*(down)*
 
 --
 
@@ -74,7 +124,7 @@ Use your mouse wheel to zoom in or out. Click on a dot to see details.
 
 --
 
-### Require all flight ops to fly Instrument Flight Regulation (IFR) and patterns both coming and going
+### Require all flight ops to fly Instrument Flight Rules (IFR) patterns both coming and going
 
 --
 
@@ -94,10 +144,4 @@ Use your mouse wheel to zoom in or out. Click on a dot to see details.
 
 
 ## Thanks
-   Nick Peihl, San Juan County GIS Coordinator
 
-   360-370-7413
-
-   [nickp@sanjuanco.com](mailto:nickp@sanjuanco.com)
-
-   [http://sjcgis.org/presentations/jet-noise-reports/](http://sjcgis.org/presentations/jet-noise-reports)
